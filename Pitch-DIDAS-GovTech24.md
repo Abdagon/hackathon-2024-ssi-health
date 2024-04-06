@@ -259,3 +259,5 @@ Anticipated transition stages
 There will certainly be extended transition periods and overlaps between the above stages, but the earlier we start prototyping, the sooner we can benefit from new possibilities.
 
 The objective of our challenge was to demonstrate how a wallet-based healthcare use case can look like. We plan to further develop the prototype both on the use case and technology side. With this, we aim for further demonstrations to and feedback from the caregiver and citizens target groups.
+
+Stay tuned!
