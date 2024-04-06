@@ -377,12 +377,22 @@ Our phantastic team on stage for the award ceremony.
 
 Our phantastic team - with [Federal Chancellor Viktor Rossi](https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html) and [FOITT Director Dirk Lindemann](https://www.linkedin.com/in/dlindemann/).
 
-## Videos
+## «Making of» Video
 
-### «Making of»
+Showcasing team organization, work on the challenge and the final pitch with a live demonstration of the solution.
 
-https://youtu.be/CC-hhqovvW4
+https://youtu.be/uNrMFE2wOyQ
 
-### Solution
+## Positioning and Next steps
 
-(will follow shortly)
+As correctly stated by jury member [Philippe Gillieron](https://www.linkedin.com/in/philippegillieron/), the challenge must be considered in the context of the current Swiss EPR initiative (EPD).
+
+We anticipate a development of citizen oriented EHR information in three stages:
+
+1. Document oriented («EPD 1.0») - current version, where information is mostly stored as reports in PDF-Format. A document oriented approach makes searches and automated processing alsmost impossible, which is particularly relevant with high volumes of documents.
+2. Structured health information, server-based («EPD 2.0») - recognizing the limitations of document oriented information, there is wide agreement that clinical information must be available in structured and standardized formats to ensure semantic interoperability. Server-based technologies are readily available for such implementations.
+3. Structured health information, wallet-based («EPD 3.0») - The very same standards can also be implemented based on SSI principles in the form of trustworthy «verifiable credentials» in digital wallets, which are part of the upcoming E-ID trust infrastructure.
+
+There will certainly be extended transition periods and overlaps between the above stages, but the earlier we start prototyping, the sooner we can benefit from new possibilities.
+
+The objective of our challenge was to demonstrate how a wallet-based healthcare use case can look like. We plan to further develop the prototype both on the use case and technology side. With this, we aim for further demonstrations to and feedback from the caregiver and citizens target groups.
