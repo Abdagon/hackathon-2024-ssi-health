@@ -246,7 +246,11 @@ https://youtu.be/uNrMFE2wOyQ
 
 As correctly stated by jury member [Philippe Gillieron](https://www.linkedin.com/in/philippegillieron/), the challenge must be considered in the context of the current Swiss EPR initiative (EPD).
 
-We anticipate a development of citizen oriented EHR information in three stages:
+We anticipate a development of citizen oriented EHR information in three stages (see also [DIDAS statement on the EPDG consultation](https://www.didas.swiss/de/2023/11/13/didas-stellungnahme-zur-epdg-revision/)):
+
+![Transition stages](Transition-en.png)
+
+Anticipated transition stages
 
 1. Document oriented («EPD 1.0») - current version, where information is mostly stored as reports in PDF-Format. A document oriented approach makes searches and automated processing alsmost impossible, which is particularly relevant with high volumes of documents.
 2. Structured health information, server-based («EPD 2.0») - recognizing the limitations of document oriented information, there is wide agreement that clinical information must be available in structured and standardized formats to ensure semantic interoperability. Server-based technologies are readily available for such implementations.
